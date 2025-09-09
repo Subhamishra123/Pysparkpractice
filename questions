@@ -1,0 +1,11 @@
+1) Find the total number of orders
+2) Find the average revenue per order
+3) Find the average revenue per day.
+4) Find the average revenue per month
+5) Which departments have the best performance?
+6) What is the most expensive item in the catalog?
+7) Which products have generated the most revenue?
+8) What are the top-ordered categories in the retail data?
+9) find the count of orders based on their status.
+10) Find all orders whose status is CANCELED, and the order amount is more than $1000.
+11) Find all customers who made more than five orders in August 2013.
